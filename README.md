@@ -11,7 +11,7 @@
 2. Go to the "Vencord" category and select the "Themes" tab.
 3. In the input field under "THEMES" paste the following URL.
 ```
-[https://uyv0/amoled/src/amoled-cord.css](https://github.com/uyv0/amoled/blob/main/src/amoled-cord.css)
+[[https://uyv0/amoled/src/amoled-cord.css](https://github.com/uyv0/amoled/blob/main/src/amoled-cord.css](https://raw.githubusercontent.com/uyv0/amoled/main/src/amoled-cord.css))
 ```
 
 ### ![stylus](https://discord-extensions.github.io/assets/icons/stylus.png) **Stylus**
