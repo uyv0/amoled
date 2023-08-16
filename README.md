@@ -6,7 +6,7 @@
 ### ![betterdiscord](https://discord-extensions.github.io/assets/icons/betterdiscord.png) **[BetterDiscord](https://betterdiscord.app)**
 - [Direct Download](https://betterdiscord.app/Download?id=144)
 
-### ![vencord(https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
+### ![vencord](https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
 1. Go too user settings (CTRL + ,)
 2. Go to the "Vencord" category and select the "Themes" tab.
 3. In the input field under "THEMES" paste the following URL.
