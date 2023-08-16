@@ -7,11 +7,11 @@
 - [Direct Download](https://betterdiscord.app/Download?id=144)
 
 ### ![vencord](https://discord-extensions.github.io/assets/icons/vencord.gif) **[Vencord](https://github.com/Vendicated/Vencord)**
-1. Go too user settings (CTRL + ,)
+1. Go to user settings (CTRL + ,)
 2. Go to the "Vencord" category and select the "Themes" tab.
 3. In the input field under "THEMES" paste the following URL.
 ```
-https://uyv0/amoled/src/amoled-cord.css
+[https://uyv0/amoled/src/amoled-cord.css](https://github.com/uyv0/amoled/blob/main/src/amoled-cord.css)
 ```
 
 ### ![stylus](https://discord-extensions.github.io/assets/icons/stylus.png) **Stylus**
@@ -24,7 +24,7 @@ https://uyv0/amoled/src/amoled-cord.css
 3. Press the `Install Style` button.
 ---
 ### Licensing
-This theme iis licensed under the MIT license. Please refer to the [License](./LICENSE) file for more details regarding rights and limitations.
+This theme is licensed under the MIT license. Please refer to the [License](./LICENSE) file for more details regarding rights and limitations.
 
 ### Credits
 Everyone who has contributed cann be found on the [CREDITS.md](./CREDITS.md) file. A personal thank you to everyone who has helped!
